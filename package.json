@@ -1,0 +1,19 @@
+{
+  "name": "hex",
+  "version": "0.0.1",
+  "description": "Welcome to the Hex, an app where you can join our game servers !",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreSama/Hex.git"
+  },
+  "author": "Alexandre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreSama/Hex/issues"
+  },
+  "homepage": "https://github.com/AlexandreSama/Hex#readme"
+}
